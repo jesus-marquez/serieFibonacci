@@ -1,0 +1,47 @@
+[PROJECT]
+Target=main.hex
+Processor_Text=PIC18F4550
+CCSVerions=5.079
+Compiler=PCH
+CCSVersion=5.079
+[Target Data]
+FileList=main.c
+[Directories]
+Include=
+[C:\Users\metamorfosis\Documents\programacion avanzada\micros\simulaciones\serie de fibonacci\main]
+Type=4
+[mru-list]
+1=main.c
+
+[fileformats]
+forcecoff=0
+
+[ProjectLog]
+Days=2
+D1=03-10-2018
+D1_L=4
+D1_L1=[37730]Project Opened.
+D1_L2=[37737]Started Editing.
+D1_L3=[38444]Stopped Editing.
+TotalEdit=7
+TotalDebug=0
+D1_E=7
+D1_D=0
+D1_L4=[39246]Project Closed.
+D2=04-10-2018
+D2_L=2
+D2_L1=[43945]Project Opened.
+D2_L2=[44020]Project Closed.
+
+[Opened Files]
+1=main.c
+t1=1
+Count=1
+[main.c]
+Type=4
+[Units]
+Count=1
+1=main (main)
+
+[defines]
+buildcount=1

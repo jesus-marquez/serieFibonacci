@@ -1,0 +1,5 @@
+Compiling C:\Users\metamorfosis\Documents\programacion avanzada\micros\simulaciones\serie de fibonacci\main on 03-oct.-18 at 10:36
+>>> Warning 203 "main.c" Line 12(1,1): Condition always TRUE
+      Memory usage:   ROM=2%      RAM=0% - 1%
+      0 Errors,  1 Warnings.
+Build Successful.
